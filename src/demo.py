@@ -1,4 +1,4 @@
-import geopandas as gpd
+import geopanda as gpd
 import os
 
 [
